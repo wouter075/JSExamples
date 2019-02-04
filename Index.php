@@ -1,13 +1,13 @@
-<HTML>
+<html>
 <HEAD>
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </HEAD>
-<BODY>
+<body>
 
 
 <div id="box1" class="box"></div>
 <div id="box2" class="box"></div>
 
-
-</BODY>
-</HTML>
+Wat een mooie aanpassing
+</body>
+</html>
